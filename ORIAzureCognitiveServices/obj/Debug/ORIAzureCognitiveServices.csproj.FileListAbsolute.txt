@@ -1,0 +1,9 @@
+C:\Users\francisco.zanon\source\repos\ORIAzureCognitiveServices\ORIAzureCognitiveServices\bin\Debug\ORIAzureCognitiveServices.dll
+C:\Users\francisco.zanon\source\repos\ORIAzureCognitiveServices\ORIAzureCognitiveServices\bin\Debug\ORIAzureCognitiveServices.pdb
+C:\Users\francisco.zanon\source\repos\ORIAzureCognitiveServices\ORIAzureCognitiveServices\obj\Debug\ORIAzureCognitiveServices.csproj.CoreCompileInputs.cache
+C:\Users\francisco.zanon\source\repos\ORIAzureCognitiveServices\ORIAzureCognitiveServices\obj\Debug\ORIAzureCognitiveServices.dll
+C:\Users\francisco.zanon\source\repos\ORIAzureCognitiveServices\ORIAzureCognitiveServices\obj\Debug\ORIAzureCognitiveServices.pdb
+C:\Users\francisco.zanon\source\repos\ORIAzureCognitiveServices\ORIAzureCognitiveServices\bin\Debug\Newtonsoft.Json.dll
+C:\Users\francisco.zanon\source\repos\ORIAzureCognitiveServices\ORIAzureCognitiveServices\bin\Debug\Newtonsoft.Json.xml
+C:\Users\francisco.zanon\source\repos\ORIAzureCognitiveServices\ORIAzureCognitiveServices\obj\Debug\ORIAzureCognitiveServices.csproj.CopyComplete
+C:\Users\francisco.zanon\source\repos\ORIAzureCognitiveServices\ORIAzureCognitiveServices\obj\Debug\ORIAzureCognitiveServices.csproj.AssemblyReference.cache
